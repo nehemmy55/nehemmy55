@@ -1,16 +1,23 @@
 ## Hi there 👋
+ About Me
+I'm a software engineering student and web developer, and I'm passionate about making accessible web experiences. My mission is to build inclusive digital solutions that work for everyone, regardless of their abilities. Through my focus on web accessibility (a11y), I strive to create applications that ensure equal access to technology.
 
-<!--
-**nehemmy55/nehemmy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+const skills = {
+    frontend: ['JavaScript', 'HTML', 'CSS'],
+    tools: ['Git', 'GitHub', 'VS Code', 'npm'],
+    accessibility: ['WCAG', 'ARIA', 'Screen Readers'],
+    learning: ['React.js', 'Node.js']
+}
+📚 Abbreviations Used in This Repo
+fm: Frontend Mentor
+top: The Odin Project
+dccl: DevChallenges
+crl: Conquering Responsive Layouts
+☕ Support My Work
+If you find my projects helpful, consider supporting me!
 
-Here are some ideas to get you started:
+Buy me a coffee
+Your support helps me dedicate more time to learning, building, and sharing accessible web solutions with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for being part of the journey 💛
