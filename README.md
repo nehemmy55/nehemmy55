@@ -6,9 +6,13 @@ I'm a software engineering student and web developer, and I'm passionate about m
 ## 🛠️ Tech Stack
 
 const skills = {
+
     frontend: ['JavaScript', 'HTML', 'CSS'],
+    
     tools: ['Git', 'GitHub', 'VS Code', 'npm'],
+    
     accessibility: ['WCAG', 'ARIA', 'Screen Readers'],
+    
     learning: ['React.js', 'Node.js']
 }
 ## 📚 Abbreviations Used in This Repo
