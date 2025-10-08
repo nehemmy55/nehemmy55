@@ -9,11 +9,11 @@ const skills = {
 
     frontend: ['JavaScript', 'HTML', 'CSS'],
     
-    tools: ['Git', 'GitHub', 'VS Code', 'npm'],
+    tools: ['Git', 'GitHub', 'VS Code', 'npm','intellJ'],
     
     accessibility: ['WCAG', 'ARIA', 'Screen Readers'],
     
-    learning: ['React.js', 'Node.js']
+    learning: ['React.js', 'Node.js','Springboot']
 }
 ## 📚 Abbreviations Used in This Repo
 
